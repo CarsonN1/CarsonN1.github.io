@@ -2,7 +2,7 @@
 
 I am a computer science student at CSUF and I expect to graduate in 2027
 
-## Favorite 120L CPSC Labs
+## Favorite CPSC 120L Labs
 Lab 1 
 This is the starting lab out of all the labs over this semester. This first lab really grabbed my interest, seeing my code work in real time was a shocker. This lab was definitely my motivation to keep studying computer science. 
 
